@@ -4,9 +4,14 @@ Our "Sign Language Interpreter System" project introduces a groundbreaking solut
  
 
 Run all the colums in jupyter notebook 
+
 Create your own  dataset 
+
 Create a path for the images to be stored
+
 Train the model and run it 
+
 Note:- For mobile connectivity ,install ip camera app from play store and start the server
+
 enter the IP address in the code files for connectivity.
 
