@@ -1,0 +1,1 @@
+# Dynamic-Sign-Language-Ianguage-Interpreter-with-smarphone-camera-connectivity-using-python
