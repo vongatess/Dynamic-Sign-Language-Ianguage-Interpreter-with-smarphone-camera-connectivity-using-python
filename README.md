@@ -2,4 +2,11 @@
 
 Our "Sign Language Interpreter System" project introduces a groundbreaking solution to enhance communication for the deaf and hard-of-hearing community. Leveraging advanced technologies such as machine learning and computer vision, our system offers a real-time and accurate interpretation of sign language, facilitating seamless interactions between individuals with hearing impairments and the broader society.
  
-The project focuses on creating an accessible and user-friendly interface that integrates seamlessly into everyday life. Through extensive research and development, our Sign Language Interpreter System addresses the challenges of existing communication barriers by providing a reliable tool for sign language interpretation. This system aims to empower the deaf community, allowing them to express themselves more effectively and engage in various aspects of life with increased independence.
+
+Run all the colums in jupyter notebook 
+Create your own  dataset 
+Create a path for the images to be stored
+Train the model and run it 
+Note:- For mobile connectivity ,install ip camera app from play store and start the server
+enter the IP address in the code files for connectivity.
+
